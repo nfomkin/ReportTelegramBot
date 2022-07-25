@@ -1,0 +1,9 @@
+bot:
+  name: MyFirstJavaSpringBot
+  token: 5342331775:AAFWXVSoDpM9y5JZ7Z766J7eeieqQfKJ48g
+  creatorId: 1207570549
+
+report:
+  question:
+    title: Введите название
+
